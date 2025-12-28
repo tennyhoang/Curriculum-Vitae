@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects | Tenny Hoang</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="dark-theme">
+    <nav class="navbar">
+        <div class="container nav-wrapper">
+            <a href="index.html" class="logo">TENNY<span>.JAVA</span></a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="projects.html" class="active">Projects</a></li>
+                <li><button id="theme-toggle"><i class="fas fa-moon"></i></button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="section container" style="margin-top: 80px;">
+        <h2 class="section-title" style="text-align: center; margin-bottom: 40px;">My Featured Projects</h2>
+        <div id="projects-grid" class="projects-grid">
+            </div>
+    </section>
+
+    <div id="project-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modal-body">
+                </div>
+        </div>
+    </div>
+
+    <footer class="text-center section" style="padding: 40px 0;">
+        <p>&copy; 2024 Tenny Hoang. <a href="index.html" style="color: var(--primary);">Back Home</a></p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
