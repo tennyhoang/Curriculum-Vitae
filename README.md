@@ -8,7 +8,7 @@ This repository contains my personal portfolio website, showcasing my skills, ex
 
 ### Live Demo
 🌐 View my online portfolio:  
-[https://tennyhoang.github.io/Curriculum-Vitae/](https://tennyhoang.github.io/Curriculum-Vitae/)  
+[https://tennyhoang.github.io/Tenny-Hoang/](https://tennyhoang.github.io/Tenny-Hoang/)  
 *(Sau khi bật GitHub Pages, link sẽ hoạt động. Nếu chưa bật, bạn vào Settings → Pages → Source: main → Save)*
 
 ### Key Features
